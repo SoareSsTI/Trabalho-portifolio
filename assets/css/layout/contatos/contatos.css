@@ -1,0 +1,56 @@
+.body--contatos{
+    background-color: rgba(114, 113, 113);
+}
+
+.sessao{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.contatos{
+    color: rgba(0, 0, 0, 0.9);
+    font-size: 90px;
+    font-weight: var(--texto-negrito);
+    margin-bottom: 250px;
+    margin-top: -100px;
+}
+
+.passos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin-top: -170px;
+}
+
+.texto--contato{
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.links--contatos{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.icones{
+    display: flex;
+    flex-direction: column;
+}
+    .icone--logo{
+        width: 80px;
+    }
+
+.lista-ordenada{
+    margin-top: 40px;
+    margin-left: -120px;
+}
+
+.texto--num-email{
+    font-size: 28px;
+    color: rgba(202, 202, 202, 0.4);;
+}

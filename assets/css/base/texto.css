@@ -1,0 +1,10 @@
+html{
+    --texto-branco: #FAFAFA;
+
+    --texto-medio:500;
+    --texto-negrito:600;
+}
+
+body{
+    font-family: 'Poppins', sans-serif
+}

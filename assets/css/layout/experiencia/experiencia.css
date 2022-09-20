@@ -1,0 +1,63 @@
+.sessao--exp{
+    background-image: url(../../../img/dino.webp);
+    gap: 24px;
+}
+
+.projetos-exp{
+    display: flex;
+    align-items: center;
+    font-size: 80px;
+    margin-left: 140px;
+    margin-top: 40px;
+    font-weight: bold;
+    color: white;
+}
+
+.container-exp{
+    width: 800px;
+    height: 800px;
+    background-color: #cfcfcfee;
+    border-radius: 0px 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-left: 545px;
+    margin-top: 80px;
+}
+
+table{
+    margin-left: 100px;
+}
+
+table td,th{
+    border: 3px solid black;
+    height: 30px;
+    text-align: center;
+}
+
+    td{
+        padding-top: 20px;
+        font-weight: 500;
+    }
+
+    table th{
+        width: 300px;
+        height: 40px;
+        font-size: 24px;
+        font-weight: 600;
+        padding-top: 10px;
+    }
+
+.table{
+    margin-left: -0px !important;
+}
+
+.tr{
+    height: 80px;
+}
+
+.paragrafo-exp{
+    margin-top: 20px;
+    font-weight: 500;
+    text-justify: inter-word;
+}

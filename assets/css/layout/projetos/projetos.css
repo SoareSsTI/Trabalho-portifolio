@@ -1,0 +1,65 @@
+.sessao--conteudo{
+    gap: 48px;
+    height: 100vh;
+}
+
+.body--projetos{
+    background-color: #b2b2b2;
+}
+
+.container-projeto{
+    width: 800px;
+    height: 800px;
+    background-color: #cecccc79;
+    border-radius: 30px 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-top: 40px;
+    margin-left: 530px;
+}
+
+.projetos{
+    display: flex;
+    align-items: center;
+    font-size: 80px;
+    margin-left: 230px;
+    margin-top: 40px;
+    font-weight: bold;
+    color: white;
+}
+
+table{
+    margin-left: 100px;
+}
+
+table td,th{
+    border: 3px solid black;
+    height: 30px;
+    text-align: center;
+}
+
+    td{
+        padding-top: 20px;
+        font-weight: 500;
+    }
+
+    table th{
+        width: 300px;
+        height: 40px;
+        font-size: 24px;
+        font-weight: 600;
+        padding-top: 10px;
+    }
+
+.tr{
+    height: 80px;
+}
+
+.projetos-git{
+    width: 350px;
+    margin-left: 220px;
+    margin-top: -20px;
+    
+}
+
